@@ -1,6 +1,5 @@
 ### 👋 Hi, I’m @ManelAriapala
 - 👀 I’m interested in Front End Web Development
-- 🌱 I’m currently learning php so that I can tango my the way to Back End either in Javascript or PHP cause salsa is also just as fun
 - 💞️ I’m looking for my very first web development job
 - 📫 How to reach me manelariapala@gmail.com
 
